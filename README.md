@@ -6,7 +6,7 @@ This app displays a movie of your choice that fills the entire screen of your di
 It is rudimentary, but serves a a demonstration of a most basic HTML web application for display on a screen via a browser in full-screen mode.
 
 ## CharlieUniform
-ChalieUniform is an application (Coming soon. Currrently in Beta) tha lets you manage html content on unattended digital screens. Virtually any HTML content will work on any combination of hardware and browser. 
+ChalieUniform is an application (Coming soon. Currently in Beta) tha lets you manage HTML content on unattended digital screens. Virtually any HTML content will work on any combination of hardware and browser. 
 
 It is just a browser in full screen mode with your content. You can change that content from anywhere using charlieunifrom without touching the screen itself.
 
