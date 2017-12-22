@@ -1,0 +1,43 @@
+html {
+        /*cursor: none;*/
+    }
+
+body {
+	overflow: hidden;
+	background-color: #000000;
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Rubik', sans-serif;
+}
+
+#container {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	text-align: center;
+}
+
+.movie {
+	display: inline-block;
+    width: auto;
+	height: inherit;
+	position: relative; 
+    left: 100%; 
+    margin-left: -200%;
+    z-index: -1; 
+}
+
+.msg {
+	position: absolute;
+	top: 10vh;
+	left:10vw;
+	color: darkgrey; 
+	/* color: lemonchiffon; */
+	/* color: lightgrey; */
+	font-size: 8vh;
+	opacity:0.0;
+	transition-property: opacity;
+  	transition-duration: 4s;
+  	transition-delay: 2s;
+}
+
