@@ -28,11 +28,11 @@ If you create several copies of the app, each with a different movie clip then y
 Download the zipfile from github. Extract into you filesystem. The top level directory of the app should be MovieApp01-master, we will change this later. The top level directory or folder name will be the name of the content app in [Charlie Uniform](https://charlieuniform.com). 
 
 You can change the movie by editing the index.html file. Be sure to change the type if it is not a webm movie.
-'''
+```
 <video class="movie" id="movie" autoplay loop>
 	<source src="video/<your movie here>" type="video/webm">
 </video>
-'''
+```
 
 Now name the top level folder something to help you know which menu you are using. Say you want to display on one of your digital screens in the morning a movie fetauring your breakfast menu. Out the new movie in the video folder and change the index.html file as above. Now rename the top level directory from "MenuApp01-master" to "BreafastMovie". At this point you can drag and drop the new BreafastMovie directory to [Charlie Uniform](https://charlieuniform.com) app. It is now a content application for use on any of your screens managed by [Charlie Uniform](https://charlieuniform.com). In the morning set the BreafastMovie content app to any of the screens that you want to display it on.
 
